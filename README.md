@@ -3,3 +3,5 @@ This study explores the effectiveness of three adversarial attack algorithms, wh
 
 You can find the related dataset on the link below. I used Google Colab environment and GPU runtime. 
 https://www.kaggle.com/competitions/nips-2017-defense-against-adversarial-attack
+
+PS: To better understand the concept of adversarial attacks and defenses and how they work, in this project any library specifically designed for adversarial attacks or defenses is not used, but you can always exploit the available libraries with more options
